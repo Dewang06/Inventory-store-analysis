@@ -18,7 +18,8 @@ The aim of this project is to create an inventory system and insert data into it
 3. Form questions based on the tables and the relationships between them
 
 4. Writing queries to gain meaningful insights
-## Screenshots
+
+## ⭕ Screenshots
 
 ![dfd_diagram](https://github.com/Dewang06/Inventory-store-analysis/assets/91787570/997eab33-dd17-42f7-ad4b-6df19d00706c)
 
