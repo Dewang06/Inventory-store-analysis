@@ -3,12 +3,13 @@
 
 The aim of this project is to create an inventory system and insert data into it and write about 15-20 queries to find meaningful insights about the products in the inventory and about its suppliers, purchases made and orders received from the customers.
 
-## Tools and Technologies Used
+## 🔧 Tools and Technologies Used
 
-**MySQL:** MySQL is an open-source relational database management system (RDBMS) that is widely used for managing and organizing structured data. 
+:dolphin: **MySQL:** MySQL is an open-source relational database management system (RDBMS) that is widely used for managing and organizing structured data. 
 
-**Microsoft Word:** Microsoft Word is a word processing application developed by Microsoft.
-## Project Workflow
+:page_facing_up: **Microsoft Word:** Microsoft Word is a word processing application developed by Microsoft.
+
+## 🚀 Project Workflow
 
 1. Creating table in Mysql
 
@@ -22,7 +23,7 @@ The aim of this project is to create an inventory system and insert data into it
 ![dfd_diagram](https://github.com/Dewang06/Inventory-store-analysis/assets/91787570/997eab33-dd17-42f7-ad4b-6df19d00706c)
 
 
-## Top Questions and insights
+## :bomb: Top Questions and insights
 
 - Q11 Show highest selling product in each month in the year 2022. Name, month, no.
 
